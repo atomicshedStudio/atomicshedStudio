@@ -1,7 +1,11 @@
  👋 Hi, I’m @atomicshedStudio
+ 
  👀 I’m interested ...
+ 
  🌱 I’m currently ...
+ 
  💞️ I’m looking ...
+ 
  📫 How to reach me ... @atomicshed
 
 <!---
